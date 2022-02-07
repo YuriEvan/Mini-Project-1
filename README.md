@@ -17,11 +17,11 @@ Pauline - anaylzing the clean up data / create/input formula / dashboard designi
 - The automotive seating manufacturing company profits have been declining over time beacause of the steep increase in plants operating costs
 - Lack of visibility in theproduction process such as machine downtime, products defect rate, etc. Is leading to ineffective operational process in turn increasing costs
 
-#### Mini Project 1 questions
-1 - Calculate the below listed KPIs(measures_ using DAX
-2 - Create charts to track the overall trend of the above calculated metrics over the given time period. Also, create a KPI card highlighting the overall values for each KPIs across the given time period in the data
-3 - Create list of filters at t op of the dashboard to filter for the above designed metrics
-4 - Is there a correlation between (i) total production and scrap pieces produced, (ii) total production and rework pieces? what is the magnitude of correlation?
+#### Mini Project 1 questions 
+1 - Calculate the below listed KPIs(measures_ using DAX <br>
+2 - Create charts to track the overall trend of the above calculated metrics over the given time period. Also, create a KPI card highlighting the overall values for each KPIs across the given time period in the data <br>
+3 - Create list of filters at t op of the dashboard to filter for the above designed metrics <br>
+4 - Is there a correlation between (i) total production and scrap pieces produced, (ii) total production and rework pieces? what is the magnitude of correlation? <br>
 
 
 
