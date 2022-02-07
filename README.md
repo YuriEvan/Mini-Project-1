@@ -3,11 +3,11 @@
 This is a _MINI Group Project_ which consist of 5 members (Evan, Grace, Michelle, Desmond & Pauline). <br>
 
 Roles for this Mini-Project-1
-Evan - extract / cleaning up of the raw data, dashboard designing, model relationship mapping
-Grace - extract / cleaning up of the raw data 
-Michelle - anaylzing the clean up data / create/input formula 
-Desmond - anaylzing the clean up data 
-Pauline - anaylzing the clean up data / create/input formula / dashboard designing
+Evan - extract / cleaning up of the raw data, dashboard designing, model relationship mapping <br>
+Grace - extract / cleaning up of the raw data <br>
+Michelle - anaylzing the clean up data / create/input formula <br>
+Desmond - anaylzing the clean up data <br>
+Pauline - anaylzing the clean up data / create/input formula / dashboard designing <br>
 
 #### Introduction - Global Automotive Seating Company
 - Major supplier of seating systems for automobiles across the world with 200+ seat manufacturing plants in 30+ countries
