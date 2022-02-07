@@ -24,5 +24,23 @@ Pauline - anaylzing the clean up data / create/input formula / dashboard designi
 4 - Is there a correlation between (i) total production and scrap pieces produced, (ii) total production and rework pieces? what is the magnitude of correlation? <br>
 
 
+#### Mini Project 1 Answers
+1 - Calculate the below listed KPIs(measures_ using DAX <br>
 
+Machine Utilization - Formula: (ProductionFBE - ScrapFBE) / ProductionFBE Theoretical <br>
+Right First Time - Formula: (ProductionFBE - ScrapFBE - ReworkFBE) / ProductionFBE <br>
+Scrap Rate - Formula: (ScrapFBE / ProductionFBE) <br>
+Rework Rate - Formula: (ReworkFBE / ProductionFBE) <br>
+Downtime Minutes - Formula: Sum of downtime value (in secs) <br>
+Production Pieces - Formula: Count of total item produced <br>
+
+2 - Create charts to track the overall trend of the above calculated metrics over the given time period. Also, create a KPI card highlighting the overall values for each KPIs across the given time period in the data <br>
+
+*Refer to the dashboard
+
+3 - Create list of filters at t op of the dashboard to filter for the above designed metrics <br>
+
+*Refer to the dashboard
+
+4 - Is there a correlation between (i) total production and scrap pieces produced, (ii) total production and rework pieces? what is the magnitude of correlation? <br>
 
