@@ -36,22 +36,22 @@ Production Pieces - Formula: Count of total item produced <br>
 
 2 - Create charts to track the overall trend of the above calculated metrics over the given time period. Also, create a KPI card highlighting the overall values for each KPIs across the given time period in the data <br>
 
-*Refer to the dashboard
+*Refer to the dashboard* 
 [Click here to view dashboard](https://github.com/YuriEvan/Mini-Project-1/blob/main/DBA06%20-%20Group%208_Mini%20Assignment%201.pdf)
 
 
 3 - Create list of filters at t op of the dashboard to filter for the above designed metrics <br>
 
-*Refer to the dashboard
+*Refer to the dashboard*
 [Click here to view dashboard](https://github.com/YuriEvan/Mini-Project-1/blob/main/DBA06%20-%20Group%208_Mini%20Assignment%201.pdf)
 
 
 4 - Is there a correlation between (i) total production and scrap pieces produced, (ii) total production and rework pieces? what is the magnitude of correlation? <br>
 
-*Refer to the dashboard
+*Refer to the dashboard*
 [Click here to view dashboard](https://github.com/YuriEvan/Mini-Project-1/blob/main/DBA06%20-%20Group%208_Mini%20Assignment%201.pdf)
 
 5 - Appendix <br>
 
-*Please take note that you may have to download the file to view, as the file is too big to be viewed on GitHub
+*Please take note that you may have to download the file to view, as the file is too big to be viewed on GitHub*
 [Click here to view data of the dashboard](https://github.com/YuriEvan/Mini-Project-1/blob/main/PowerBI-Data/DBA06%20-%20Group%208_Mini%20Assignment%201.pbix)
