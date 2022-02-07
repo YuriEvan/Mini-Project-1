@@ -2,7 +2,7 @@
 
 This is a _MINI Group Project_ which consist of 5 members (Evan, Grace, Michelle, Desmond & Pauline). <br>
 
-Roles for this Mini-Project-1
+Roles for this Mini-Project-1 <br>
 Evan - extract / cleaning up of the raw data, dashboard designing, model relationship mapping <br>
 Grace - extract / cleaning up of the raw data <br>
 Michelle - anaylzing the clean up data / create/input formula <br>
