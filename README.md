@@ -1,6 +1,8 @@
 ### Mini-Project-1 (Power BI) Overview
 
-This is a _MINI Group Project_ which consist of 5 members (Evan, Grace, Michelle, Desmond & Pauline). <br>
+This is a _Mini Group Project 1_ which consist of 5 members (Evan, Grace, Michelle, Desmond & Pauline). <br>
+Our Team came in Top 2 for this _Mini Group Project 1_ <br>
+[Click here to view the badge] (https://www.credly.com/earner/earned/badge/6785ca33-25fe-4782-ba36-1c4ee530864d)
 
 Roles for this Mini-Project-1 <br>
 Evan - extract / cleaning up of the raw data, dashboard designing, model relationship mapping <br>
