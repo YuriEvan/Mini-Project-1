@@ -55,5 +55,5 @@ Production Pieces - Formula: Count of total item produced <br>
 
 5 - Appendix <br>
 
-*Please take note that you may have to download the file to view, as the file is too big to be viewed on GitHub*
-[Click here to view data of the dashboard](https://github.com/YuriEvan/Mini-Project-1/blob/main/PowerBI-Data/DBA06%20-%20Group%208_Mini%20Assignment%201.pbix)
+*Please take note that you may have to download the file to view, as the file is too big to be viewed on GitHub* <br> 
+[Click here to view data of the dashboard](https://github.com/YuriEvan/Mini-Project-1/blob/main/PowerBI-Data/DBA06%20-%20Group%208_Mini%20Assignment%201.pbix) <br>
